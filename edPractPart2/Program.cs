@@ -128,7 +128,7 @@ namespace edPractPart2
 
         }
 
-        public static void forThreadQ2()
+        public static void rateQ2()
         {
             Thread t = Thread.CurrentThread;
             Random rnd = new Random();
